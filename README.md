@@ -26,4 +26,7 @@ There will be a project generator which will create all the necessary files for 
 - **4** - Triangle Tool
 - **5** - Polygon Tool
 
+## Known Issues:
+- Clicking on the buttons will cause the tool to start drawing, needing to cancel everytime.
+
 Have fun!
